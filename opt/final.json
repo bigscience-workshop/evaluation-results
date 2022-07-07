@@ -1,7 +1,7 @@
 {
   "results": {
     "arc_challenge": {
-      "2022-07-05-16-57-22": {
+      "2022-07-07-20-49-53": {
         "acc": 0.4121160409556314,
         "acc_norm": 0.43430034129692835,
         "acc_norm_stderr": 0.01448470304885736,
@@ -9,7 +9,7 @@
       }
     },
     "arc_easy": {
-      "2022-07-05-16-57-23": {
+      "2022-07-07-20-49-55": {
         "acc": 0.7508417508417509,
         "acc_norm": 0.7087542087542088,
         "acc_norm_stderr": 0.009322788837938866,
@@ -17,37 +17,37 @@
       }
     },
     "axb+GPT-3 style": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.4682971014492754,
         "acc_norm": 0.5896739130434783,
-        "acc_norm_stderr": 0.01481094487977105,
-        "acc_stderr": 0.015024758238656831,
+        "acc_norm_stderr": 0.01481094487977106,
+        "acc_stderr": 0.015024758238656833,
         "prompt_name": "GPT-3 style",
         "task_name": "axb"
       }
     },
     "axb+MNLI crowdsource": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.5788043478260869,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.014844481058991168,
-        "acc_stderr": 0.014866888213508274,
+        "acc_norm_stderr": 0.014844481058991162,
+        "acc_stderr": 0.014866888213508284,
         "prompt_name": "MNLI crowdsource",
         "task_name": "axb"
       }
     },
     "axb+based on the previous passage": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.49184782608695654,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.01484448105899117,
-        "acc_stderr": 0.015053050403072362,
+        "acc_norm_stderr": 0.014844481058991162,
+        "acc_stderr": 0.015053050403072348,
         "prompt_name": "based on the previous passage",
         "task_name": "axb"
       }
     },
     "axb+can we infer": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.6041666666666666,
         "acc_norm": 0.4166666666666667,
         "acc_norm_stderr": 0.014844481058991162,
@@ -57,67 +57,67 @@
       }
     },
     "axb+does it follow that": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.4601449275362319,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.01484448105899117,
-        "acc_stderr": 0.01500714768350926,
+        "acc_norm_stderr": 0.014844481058991162,
+        "acc_stderr": 0.015007147683509251,
         "prompt_name": "does it follow that",
         "task_name": "axb"
       }
     },
     "axb+does this imply": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.49094202898550726,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.014844481058991159,
-        "acc_stderr": 0.015052580949981862,
+        "acc_norm_stderr": 0.014844481058991162,
+        "acc_stderr": 0.01505258094998187,
         "prompt_name": "does this imply",
         "task_name": "axb"
       }
     },
     "axb+guaranteed true": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.5516304347826086,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.014844481058991174,
-        "acc_stderr": 0.014974571925618968,
+        "acc_norm_stderr": 0.014844481058991162,
+        "acc_stderr": 0.014974571925618978,
         "prompt_name": "guaranteed true",
         "task_name": "axb"
       }
     },
     "axb+justified in saying": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.5516304347826086,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.014844481058991166,
-        "acc_stderr": 0.014974571925618976,
+        "acc_norm_stderr": 0.014844481058991162,
+        "acc_stderr": 0.01497457192561897,
         "prompt_name": "justified in saying",
         "task_name": "axb"
       }
     },
     "axb+must be true": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.5380434782608695,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.01484448105899117,
+        "acc_norm_stderr": 0.014844481058991162,
         "acc_stderr": 0.015011409796598991,
         "prompt_name": "must be true",
         "task_name": "axb"
       }
     },
     "axb+should assume": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-10": {
         "acc": 0.5253623188405797,
         "acc_norm": 0.4166666666666667,
-        "acc_norm_stderr": 0.014844481058991171,
-        "acc_stderr": 0.015035670876796532,
+        "acc_norm_stderr": 0.014844481058991162,
+        "acc_stderr": 0.015035670876796534,
         "prompt_name": "should assume",
         "task_name": "axb"
       }
     },
     "axg+GPT-3 style": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.5561797752808989,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
@@ -129,230 +129,230 @@
       }
     },
     "axg+MNLI crowdsource": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.5056179775280899,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
         "acc_stderr": 0.026535569449245976,
         "parity": 0.9775280898876404,
-        "parity_stderr": 0.011140328167746828,
+        "parity_stderr": 0.011140328167746837,
         "prompt_name": "MNLI crowdsource",
         "task_name": "axg"
       }
     },
     "axg+based on the previous passage": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.5393258426966292,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
-        "acc_stderr": 0.026455036427562657,
+        "acc_stderr": 0.02645503642756265,
         "parity": 0.9438202247191011,
-        "parity_stderr": 0.017308044589604648,
+        "parity_stderr": 0.017308044589604655,
         "prompt_name": "based on the previous passage",
         "task_name": "axg"
       }
     },
     "axg+can we infer": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.6123595505617978,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
         "acc_stderr": 0.02585851707552489,
         "parity": 0.9438202247191011,
-        "parity_stderr": 0.017308044589604648,
+        "parity_stderr": 0.017308044589604655,
         "prompt_name": "can we infer",
         "task_name": "axg"
       }
     },
     "axg+does it follow that": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.5140449438202247,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
-        "acc_stderr": 0.026526773058212962,
+        "acc_stderr": 0.026526773058212955,
         "parity": 0.9719101123595506,
-        "parity_stderr": 0.012419422972302354,
+        "parity_stderr": 0.012419422972302358,
         "prompt_name": "does it follow that",
         "task_name": "axg"
       }
     },
     "axg+does this imply": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.5365168539325843,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
-        "acc_stderr": 0.02646637619079846,
+        "acc_stderr": 0.026466376190798467,
         "parity": 0.8932584269662921,
-        "parity_stderr": 0.02320965725605377,
+        "parity_stderr": 0.023209657256053767,
         "prompt_name": "does this imply",
         "task_name": "axg"
       }
     },
     "axg+guaranteed true": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.5337078651685393,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
         "acc_stderr": 0.026476871641181517,
         "parity": 0.9550561797752809,
-        "parity_stderr": 0.015572660609707205,
+        "parity_stderr": 0.01557266060970721,
         "prompt_name": "guaranteed true",
         "task_name": "axg"
       }
     },
     "axg+justified in saying": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.598314606741573,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
         "acc_stderr": 0.02601918242002121,
         "parity": 0.9157303370786517,
-        "parity_stderr": 0.02088011067145903,
+        "parity_stderr": 0.020880110671459028,
         "prompt_name": "justified in saying",
         "task_name": "axg"
       }
     },
     "axg+must be true": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.601123595505618,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
-        "acc_stderr": 0.02598883933982108,
+        "acc_stderr": 0.025988839339821105,
         "parity": 0.9550561797752809,
-        "parity_stderr": 0.01557266060970719,
+        "parity_stderr": 0.015572660609707197,
         "prompt_name": "must be true",
         "task_name": "axg"
       }
     },
     "axg+should assume": {
-      "2022-07-06-18-42-55": {
+      "2022-07-07-15-12-53": {
         "acc": 0.6067415730337079,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.026537244621713762,
         "acc_stderr": 0.025925474805778295,
         "parity": 0.9438202247191011,
-        "parity_stderr": 0.01730804458960465,
+        "parity_stderr": 0.01730804458960466,
         "prompt_name": "should assume",
         "task_name": "axg"
       }
     },
     "boolq": {
-      "2022-07-05-16-57-23": {
+      "2022-07-07-20-49-49": {
         "acc": 0.8024464831804281,
         "acc_stderr": 0.006963746631628737
       }
     },
     "boolq+GPT-3 Style": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.7581039755351682,
         "acc_norm": 0.7229357798165138,
-        "acc_norm_stderr": 0.007827672048734545,
+        "acc_norm_stderr": 0.007827672048734536,
         "acc_stderr": 0.007489818475316374,
         "prompt_name": "GPT-3 Style",
         "task_name": "boolq"
       }
     },
     "boolq+I wonder\u2026": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.454434250764526,
         "acc_norm": 0.627217125382263,
-        "acc_norm_stderr": 0.008457255867914694,
-        "acc_stderr": 0.008708665643758013,
+        "acc_norm_stderr": 0.008457255867914685,
+        "acc_stderr": 0.008708665643758015,
         "prompt_name": "I wonder\u2026",
         "task_name": "boolq"
       }
     },
     "boolq+after_reading": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.6207951070336392,
         "acc_norm": 0.5330275229357798,
-        "acc_norm_stderr": 0.008725955605686031,
-        "acc_stderr": 0.008486012137246295,
+        "acc_norm_stderr": 0.008725955605686024,
+        "acc_stderr": 0.008486012137246281,
         "prompt_name": "after_reading",
         "task_name": "boolq"
       }
     },
     "boolq+based on the following passage": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.38623853211009174,
         "acc_norm": 0.5825688073394495,
-        "acc_norm_stderr": 0.008624990050216686,
-        "acc_stderr": 0.008515695986533811,
+        "acc_norm_stderr": 0.008624990050216691,
+        "acc_stderr": 0.008515695986533815,
         "prompt_name": "based on the following passage",
         "task_name": "boolq"
       }
     },
     "boolq+based on the previous passage": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.6954128440366972,
         "acc_norm": 0.6241590214067279,
         "acc_norm_stderr": 0.00847114724816011,
-        "acc_stderr": 0.00804951448892039,
+        "acc_stderr": 0.008049514488920391,
         "prompt_name": "based on the previous passage",
         "task_name": "boolq"
       }
     },
     "boolq+could you tell me\u2026": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.5480122324159021,
         "acc_norm": 0.6269113149847095,
-        "acc_norm_stderr": 0.008458661252058387,
-        "acc_stderr": 0.008704643851177517,
+        "acc_norm_stderr": 0.008458661252058394,
+        "acc_stderr": 0.008704643851177515,
         "prompt_name": "could you tell me\u2026",
         "task_name": "boolq"
       }
     },
     "boolq+exam": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.6327217125382263,
         "acc_norm": 0.6217125382262997,
-        "acc_norm_stderr": 0.008482001133931001,
-        "acc_stderr": 0.008431338702844847,
+        "acc_norm_stderr": 0.00848200113393099,
+        "acc_stderr": 0.008431338702844845,
         "prompt_name": "exam",
         "task_name": "boolq"
       }
     },
     "boolq+exercise": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.6220183486238532,
         "acc_norm": 0.627217125382263,
-        "acc_norm_stderr": 0.00845725586791469,
-        "acc_stderr": 0.00848065696458526,
+        "acc_norm_stderr": 0.008457255867914683,
+        "acc_stderr": 0.008480656964585267,
         "prompt_name": "exercise",
         "task_name": "boolq"
       }
     },
     "boolq+valid_binary": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.5275229357798165,
         "acc_norm": 0.3785932721712538,
-        "acc_norm_stderr": 0.00848334171802448,
-        "acc_stderr": 0.008731795956847546,
+        "acc_norm_stderr": 0.008483341718024479,
+        "acc_stderr": 0.008731795956847548,
         "prompt_name": "valid_binary",
         "task_name": "boolq"
       }
     },
     "boolq+yes_no_question": {
-      "2022-07-06-18-42-37": {
+      "2022-07-07-15-13-12": {
         "acc": 0.6253822629969419,
         "acc_norm": 0.6217125382262997,
-        "acc_norm_stderr": 0.008482001133930998,
-        "acc_stderr": 0.008465633983431926,
+        "acc_norm_stderr": 0.00848200113393099,
+        "acc_stderr": 0.00846563398343193,
         "prompt_name": "yes_no_question",
         "task_name": "boolq"
       }
     },
     "cb+GPT-3 style": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.3392857142857143,
-        "acc_stderr": 0.06384226561930825,
+        "acc_stderr": 0.06384226561930827,
         "f1": 0.22335271317829455,
         "prompt_name": "GPT-3 style",
         "task_name": "cb"
       }
     },
     "cb+MNLI crowdsource": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.4107142857142857,
         "acc_stderr": 0.06633634150359538,
         "f1": 0.1940928270042194,
@@ -361,7 +361,7 @@
       }
     },
     "cb+always/sometimes/never": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.125,
         "acc_stderr": 0.04459412925079224,
         "f1": 0.11462526356143377,
@@ -370,16 +370,16 @@
       }
     },
     "cb+based on the previous passage": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.5892857142857143,
-        "acc_stderr": 0.0663363415035954,
+        "acc_stderr": 0.06633634150359538,
         "f1": 0.41036414565826335,
         "prompt_name": "based on the previous passage",
         "task_name": "cb"
       }
     },
     "cb+can we infer": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.6071428571428571,
         "acc_stderr": 0.0658538889806635,
         "f1": 0.4283625730994152,
@@ -388,7 +388,7 @@
       }
     },
     "cb+claim true/false/inconclusive": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.35714285714285715,
         "acc_stderr": 0.06460957383809221,
         "f1": 0.3070581170780791,
@@ -397,7 +397,7 @@
       }
     },
     "cb+consider always/sometimes/never": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.3392857142857143,
         "acc_stderr": 0.06384226561930825,
         "f1": 0.246684350132626,
@@ -406,25 +406,25 @@
       }
     },
     "cb+does it follow that": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.4107142857142857,
-        "acc_stderr": 0.0663363415035954,
+        "acc_stderr": 0.06633634150359538,
         "f1": 0.27171717171717175,
         "prompt_name": "does it follow that",
         "task_name": "cb"
       }
     },
     "cb+does this imply": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.16071428571428573,
-        "acc_stderr": 0.049522300593062986,
+        "acc_stderr": 0.04952230059306298,
         "f1": 0.1566439589695404,
         "prompt_name": "does this imply",
         "task_name": "cb"
       }
     },
     "cb+guaranteed true": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.4642857142857143,
         "acc_stderr": 0.06724777654937658,
         "f1": 0.3847253017984726,
@@ -433,7 +433,7 @@
       }
     },
     "cb+guaranteed/possible/impossible": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.25,
         "acc_stderr": 0.058387420812114225,
         "f1": 0.21880523153057618,
@@ -442,16 +442,16 @@
       }
     },
     "cb+justified in saying": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.5178571428571429,
-        "acc_stderr": 0.06737697508644647,
+        "acc_stderr": 0.06737697508644648,
         "f1": 0.3583333333333334,
         "prompt_name": "justified in saying",
         "task_name": "cb"
       }
     },
     "cb+must be true": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.44642857142857145,
         "acc_stderr": 0.06703189227942398,
         "f1": 0.3084505349200625,
@@ -460,7 +460,7 @@
       }
     },
     "cb+should assume": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.5178571428571429,
         "acc_stderr": 0.06737697508644648,
         "f1": 0.3721790603033666,
@@ -469,7 +469,7 @@
       }
     },
     "cb+take the following as truth": {
-      "2022-07-06-18-42-36": {
+      "2022-07-07-15-13-18": {
         "acc": 0.4107142857142857,
         "acc_stderr": 0.0663363415035954,
         "f1": 0.3719464144996059,
@@ -478,83 +478,83 @@
       }
     },
     "cola+Following sentence acceptable": {
-      "2022-07-06-18-43-02": {
+      "2022-07-07-15-13-21": {
         "acc": 0.4439117929050815,
         "acc_norm": 0.3173537871524449,
-        "acc_norm_stderr": 0.014419022708424873,
-        "acc_stderr": 0.015391690588734656,
+        "acc_norm_stderr": 0.014419022708424866,
+        "acc_stderr": 0.015391690588734654,
         "prompt_name": "Following sentence acceptable",
         "task_name": "cola"
       }
     },
     "cola+Make sense yes no": {
-      "2022-07-06-18-43-02": {
+      "2022-07-07-15-13-21": {
         "acc": 0.6021093000958773,
         "acc_norm": 0.6903163950143816,
         "acc_norm_stderr": 0.014323506235950028,
-        "acc_stderr": 0.015163019808279322,
+        "acc_stderr": 0.015163019808279313,
         "prompt_name": "Make sense yes no",
         "task_name": "cola"
       }
     },
     "cola+Previous sentence acceptable": {
-      "2022-07-06-18-43-02": {
+      "2022-07-07-15-13-21": {
         "acc": 0.3288590604026846,
         "acc_norm": 0.6912751677852349,
-        "acc_norm_stderr": 0.014311244461311297,
-        "acc_stderr": 0.014553850589468266,
+        "acc_norm_stderr": 0.014311244461311299,
+        "acc_stderr": 0.014553850589468264,
         "prompt_name": "Previous sentence acceptable",
         "task_name": "cola"
       }
     },
     "cola+editing": {
-      "2022-07-06-18-43-02": {
+      "2022-07-07-15-13-21": {
         "acc": 0.3087248322147651,
         "acc_norm": 0.6912751677852349,
-        "acc_norm_stderr": 0.014311244461311297,
-        "acc_stderr": 0.014311244461311297,
+        "acc_norm_stderr": 0.014311244461311299,
+        "acc_stderr": 0.014311244461311299,
         "prompt_name": "editing",
         "task_name": "cola"
       }
     },
     "cola+is_this_correct": {
-      "2022-07-06-18-43-02": {
+      "2022-07-07-15-13-21": {
         "acc": 0.5973154362416108,
         "acc_norm": 0.6912751677852349,
-        "acc_norm_stderr": 0.014311244461311302,
-        "acc_stderr": 0.015193243582137613,
+        "acc_norm_stderr": 0.014311244461311299,
+        "acc_stderr": 0.015193243582137611,
         "prompt_name": "is_this_correct",
         "task_name": "cola"
       }
     },
     "copa": {
-      "2022-07-05-16-57-17": {
+      "2022-07-07-20-49-59": {
         "acc": 0.84,
         "acc_stderr": 0.03684529491774708
       }
     },
     "copa+C1 or C2? premise, so/because\u2026": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.71,
         "acc_norm": 0.58,
         "acc_norm_stderr": 0.049604496374885836,
-        "acc_stderr": 0.04560480215720684,
+        "acc_stderr": 0.045604802157206845,
         "prompt_name": "C1 or C2? premise, so/because\u2026",
         "task_name": "copa"
       }
     },
     "copa+best_option": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.54,
         "acc_norm": 0.47,
-        "acc_norm_stderr": 0.050161355804659205,
-        "acc_stderr": 0.05009082659620332,
+        "acc_norm_stderr": 0.05016135580465919,
+        "acc_stderr": 0.05009082659620333,
         "prompt_name": "best_option",
         "task_name": "copa"
       }
     },
     "copa+cause_effect": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.58,
         "acc_norm": 0.48,
         "acc_norm_stderr": 0.050211673156867795,
@@ -564,27 +564,27 @@
       }
     },
     "copa+choose": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.55,
         "acc_norm": 0.51,
-        "acc_norm_stderr": 0.05024183937956911,
-        "acc_stderr": 0.05,
+        "acc_norm_stderr": 0.05024183937956912,
+        "acc_stderr": 0.049999999999999996,
         "prompt_name": "choose",
         "task_name": "copa"
       }
     },
     "copa+exercise": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.49,
         "acc_norm": 0.42,
         "acc_norm_stderr": 0.049604496374885836,
-        "acc_stderr": 0.05024183937956911,
+        "acc_stderr": 0.05024183937956912,
         "prompt_name": "exercise",
         "task_name": "copa"
       }
     },
     "copa+i_am_hesitating": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.56,
         "acc_norm": 0.52,
         "acc_norm_stderr": 0.050211673156867795,
@@ -594,37 +594,157 @@
       }
     },
     "copa+more likely": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.42,
         "acc_norm": 0.39,
-        "acc_norm_stderr": 0.04902071300001974,
+        "acc_norm_stderr": 0.04902071300001975,
         "acc_stderr": 0.049604496374885836,
         "prompt_name": "more likely",
         "task_name": "copa"
       }
     },
     "copa+plausible_alternatives": {
-      "2022-07-06-18-42-53": {
+      "2022-07-07-15-13-10": {
         "acc": 0.55,
         "acc_norm": 0.46,
-        "acc_norm_stderr": 0.05009082659620332,
-        "acc_stderr": 0.049999999999999996,
+        "acc_norm_stderr": 0.05009082659620333,
+        "acc_stderr": 0.05,
         "prompt_name": "plausible_alternatives",
         "task_name": "copa"
       }
     },
     "crows_pairs_english+1": {
-      "2022-07-06-18-42-28": {
-        "acc": 0.4824090638044126,
-        "acc_norm": 0.4824090638044126,
-        "acc_norm_stderr": 0.012205738286331286,
-        "acc_stderr": 0.012205738286331286,
+      "2022-07-07-15-13-36": {
+        "acc": 0.49433512224209897,
+        "acc_norm": 0.49433512224209897,
+        "acc_norm_stderr": 0.012212515323431726,
+        "acc_stderr": 0.012212515323431726,
         "prompt_name": "1",
         "task_name": "crows_pairs_english"
       }
     },
+    "crows_pairs_english+2": {
+      "2022-07-07-15-13-36": {
+        "acc": 0.481216457960644,
+        "acc_norm": 0.481216457960644,
+        "acc_norm_stderr": 0.012204677947890628,
+        "acc_stderr": 0.012204677947890628,
+        "prompt_name": "2",
+        "task_name": "crows_pairs_english"
+      }
+    },
+    "crows_pairs_english+3": {
+      "2022-07-07-15-13-36": {
+        "acc": 0.5152057245080501,
+        "acc_norm": 0.4836016696481813,
+        "acc_norm_stderr": 0.012206729011137944,
+        "acc_stderr": 0.012207650139258746,
+        "prompt_name": "3",
+        "task_name": "crows_pairs_english"
+      }
+    },
+    "crows_pairs_english+4": {
+      "2022-07-07-15-13-36": {
+        "acc": 0.5062611806797853,
+        "acc_norm": 0.5062611806797853,
+        "acc_norm_stderr": 0.012212341600228728,
+        "acc_stderr": 0.012212341600228728,
+        "prompt_name": "4",
+        "task_name": "crows_pairs_english"
+      }
+    },
+    "crows_pairs_english+A_preference": {
+      "2022-07-07-15-13-36": {
+        "acc": 0.5116279069767442,
+        "acc_norm": 0.5116279069767442,
+        "acc_norm_stderr": 0.012209996095069644,
+        "acc_stderr": 0.012209996095069644,
+        "prompt_name": "A_preference",
+        "task_name": "crows_pairs_english"
+      }
+    },
+    "crows_pairs_english+A_stereotype_true": {
+      "2022-07-07-15-13-36": {
+        "acc": 0.49850924269528923,
+        "acc_norm": 0.5062611806797853,
+        "acc_norm_stderr": 0.012212341600228735,
+        "acc_stderr": 0.01221324493389968,
+        "prompt_name": "A_stereotype_true",
+        "task_name": "crows_pairs_english"
+      }
+    },
+    "crows_pairs_french+1_fr": {
+      "2022-07-07-15-12-46": {
+        "acc": 0.49552772808586765,
+        "acc_norm": 0.49552772808586765,
+        "acc_norm_stderr": 0.012212810647205384,
+        "acc_stderr": 0.012212810647205384,
+        "prompt_name": "1_fr",
+        "task_name": "crows_pairs_french"
+      }
+    },
+    "crows_pairs_french+2_fr": {
+      "2022-07-07-15-12-46": {
+        "acc": 0.49433512224209897,
+        "acc_norm": 0.49433512224209897,
+        "acc_norm_stderr": 0.012212515323431726,
+        "acc_stderr": 0.012212515323431726,
+        "prompt_name": "2_fr",
+        "task_name": "crows_pairs_french"
+      }
+    },
+    "crows_pairs_french+3_fr": {
+      "2022-07-07-15-12-46": {
+        "acc": 0.4669051878354204,
+        "acc_norm": 0.4669051878354204,
+        "acc_norm_stderr": 0.012186516214691941,
+        "acc_stderr": 0.012186516214691941,
+        "prompt_name": "3_fr",
+        "task_name": "crows_pairs_french"
+      }
+    },
+    "crows_pairs_french+4_fr": {
+      "2022-07-07-15-12-46": {
+        "acc": 0.49850924269528923,
+        "acc_norm": 0.49850924269528923,
+        "acc_norm_stderr": 0.01221324493389968,
+        "acc_stderr": 0.01221324493389968,
+        "prompt_name": "4_fr",
+        "task_name": "crows_pairs_french"
+      }
+    },
+    "crows_pairs_french+A_preference_fr": {
+      "2022-07-07-15-12-46": {
+        "acc": 0.5122242098986285,
+        "acc_norm": 0.5122242098986285,
+        "acc_norm_stderr": 0.012209648574502949,
+        "acc_stderr": 0.012209648574502949,
+        "prompt_name": "A_preference_fr",
+        "task_name": "crows_pairs_french"
+      }
+    },
+    "crows_pairs_french+A_reality_check_fr": {
+      "2022-07-07-15-12-46": {
+        "acc": 0.5104353011329755,
+        "acc_norm": 0.5104353011329755,
+        "acc_norm_stderr": 0.012210638982043406,
+        "acc_stderr": 0.012210638982043406,
+        "prompt_name": "A_reality_check_fr",
+        "task_name": "crows_pairs_french"
+      }
+    },
+    "crows_pairs_french+A_stereotype_true_fr": {
+      "2022-07-07-15-12-46": {
+        "acc": 0.5104353011329755,
+        "acc_norm": 0.5104353011329755,
+        "acc_norm_stderr": 0.012210638982043408,
+        "acc_stderr": 0.012210638982043408,
+        "prompt_name": "A_stereotype_true_fr",
+        "task_name": "crows_pairs_french"
+      }
+    },
     "diabla+Is the error present? (same lang)": {
-      "2022-07-07-02-58-02": {
+      "2022-07-07-15-13-32": {
         "acc": 0.06924147529575504,
         "acc_norm": 0.06924147529575504,
         "acc_norm_stderr": 0.003348737218649089,
@@ -634,7 +754,7 @@
       }
     },
     "diabla+Which is automatic?": {
-      "2022-07-07-02-58-02": {
+      "2022-07-07-15-13-32": {
         "acc": 0.5092205984690327,
         "acc_norm": 0.5092205984690327,
         "acc_norm_stderr": 0.006594403939227809,
@@ -1562,7 +1682,7 @@
       }
     },
     "headqa": {
-      "2022-07-05-16-57-23": {
+      "2022-07-07-20-49-51": {
         "acc": 0.24434719183078046,
         "acc_norm": 0.29722830051057625,
         "acc_norm_stderr": 0.008729667320745454,
@@ -1570,7 +1690,7 @@
       }
     },
     "hellaswag": {
-      "2022-07-05-16-57-14": {
+      "2022-07-07-20-49-59": {
         "acc": 0.5916152160924119,
         "acc_norm": 0.7831109340768772,
         "acc_norm_stderr": 0.004112841656083145,
@@ -1578,7 +1698,7 @@
       }
     },
     "lambada": {
-      "2022-07-05-17-02-13": {
+      "2022-07-07-20-49-56": {
         "acc": 0.7471375897535416,
         "acc_stderr": 0.006055562668610401,
         "ppl": 3.0187065270449667,
@@ -1586,7 +1706,7 @@
       }
     },
     "lambada_mt_de": {
-      "2022-07-06-23-07-40": {
+      "2022-07-07-20-54-20": {
         "acc": 0.3576557345235785,
         "acc_stderr": 0.0066777259956673956,
         "ppl": 63.02059638883069,
@@ -1594,7 +1714,7 @@
       }
     },
     "lambada_mt_en": {
-      "2022-07-06-23-07-52": {
+      "2022-07-07-20-53-14": {
         "acc": 0.7471375897535416,
         "acc_stderr": 0.006055562668610401,
         "ppl": 3.0187065270449667,
@@ -1602,7 +1722,7 @@
       }
     },
     "lambada_mt_es": {
-      "2022-07-06-23-08-00": {
+      "2022-07-07-20-54-43": {
         "acc": 0.397244323694935,
         "acc_stderr": 0.006817286995374965,
         "ppl": 51.587598040921804,
@@ -1610,7 +1730,7 @@
       }
     },
     "lambada_mt_fr": {
-      "2022-07-06-23-07-39": {
+      "2022-07-07-20-54-07": {
         "acc": 0.44614787502425773,
         "acc_stderr": 0.006925456414702119,
         "ppl": 36.915318706282285,
@@ -1618,7 +1738,7 @@
       }
     },
     "lambada_mt_it": {
-      "2022-07-06-23-07-45": {
+      "2022-07-07-20-54-32": {
         "acc": 0.40947021152726565,
         "acc_stderr": 0.006850844880897425,
         "ppl": 52.992288896589805,
@@ -1626,7 +1746,7 @@
       }
     },
     "logiqa": {
-      "2022-07-05-17-06-52": {
+      "2022-07-07-20-50-04": {
         "acc": 0.24423963133640553,
         "acc_norm": 0.30261136712749614,
         "acc_norm_stderr": 0.01801869659815885,
@@ -1634,7 +1754,7 @@
       }
     },
     "mathqa": {
-      "2022-07-05-17-11-38": {
+      "2022-07-07-20-49-59": {
         "acc": 0.26834170854271355,
         "acc_norm": 0.2649916247906198,
         "acc_norm_stderr": 0.008079096740928386,
@@ -1642,313 +1762,313 @@
       }
     },
     "mc_taco": {
-      "2022-07-05-17-12-52": {
+      "2022-07-07-20-49-56": {
         "em": 0.12387387387387387,
         "f1": 0.49684479532259734
       }
     },
     "mnli+GPT-3 style": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.3512990320937341,
         "acc_norm": 0.3186958736627611,
-        "acc_norm_stderr": 0.004703657632807153,
-        "acc_stderr": 0.004818786919078289,
+        "acc_norm_stderr": 0.004703657632807156,
+        "acc_stderr": 0.004818786919078285,
         "prompt_name": "GPT-3 style",
         "task_name": "mnli"
       }
     },
     "mnli+MNLI crowdsource": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.3601505288852726,
         "acc_norm": 0.3140764849471115,
-        "acc_norm_stderr": 0.004681194743705915,
-        "acc_stderr": 0.004841523988841494,
+        "acc_norm_stderr": 0.004681194743705916,
+        "acc_stderr": 0.004841523988841491,
         "prompt_name": "MNLI crowdsource",
         "task_name": "mnli"
       }
     },
     "mnli+always/sometimes/never": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.30970301057770544,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.0046978232543677554,
-        "acc_stderr": 0.004663283890451536,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.00466328389045152,
         "prompt_name": "always/sometimes/never",
         "task_name": "mnli"
       }
     },
     "mnli+based on the previous passage": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.40673311635475995,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.004697823254367768,
-        "acc_stderr": 0.00495428484231214,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.004954284842312138,
         "prompt_name": "based on the previous passage",
         "task_name": "mnli"
       }
     },
     "mnli+can we infer": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.4044955248169243,
         "acc_norm": 0.3184499593165175,
-        "acc_norm_stderr": 0.004698623266114401,
-        "acc_stderr": 0.004949946753591564,
+        "acc_norm_stderr": 0.0046986232661144,
+        "acc_stderr": 0.004949946753591566,
         "prompt_name": "can we infer",
         "task_name": "mnli"
       }
     },
     "mnli+claim true/false/inconclusive": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.3572009764035802,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.00469782325436776,
-        "acc_stderr": 0.004832758293881214,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.00483275829388122,
         "prompt_name": "claim true/false/inconclusive",
         "task_name": "mnli"
       }
     },
     "mnli+consider always/sometimes/never": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.3403173311635476,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.004697823254367752,
-        "acc_stderr": 0.004778710514457161,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.004778710514457159,
         "prompt_name": "consider always/sometimes/never",
         "task_name": "mnli"
       }
     },
     "mnli+does it follow that": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.41914157851912126,
         "acc_norm": 0.32068755085435313,
         "acc_norm_stderr": 0.004707355409658671,
-        "acc_stderr": 0.004976415904582037,
+        "acc_stderr": 0.004976415904582009,
         "prompt_name": "does it follow that",
         "task_name": "mnli"
       }
     },
     "mnli+does this imply": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.32628152969894225,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.004697823254367755,
-        "acc_stderr": 0.0047286440517157,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.004728644051715699,
         "prompt_name": "does this imply",
         "task_name": "mnli"
       }
     },
     "mnli+guaranteed true": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.37144019528071603,
         "acc_norm": 0.31783970707892595,
-        "acc_norm_stderr": 0.00469622013326876,
-        "acc_stderr": 0.004873252385417244,
+        "acc_norm_stderr": 0.004696220133268762,
+        "acc_stderr": 0.004873252385417233,
         "prompt_name": "guaranteed true",
         "task_name": "mnli"
       }
     },
     "mnli+guaranteed/possible/impossible": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.33848657445077296,
         "acc_norm": 0.36879576891781934,
-        "acc_norm_stderr": 0.00486607801648821,
-        "acc_stderr": 0.004772448023078358,
+        "acc_norm_stderr": 0.0048660780164882156,
+        "acc_stderr": 0.004772448023078349,
         "prompt_name": "guaranteed/possible/impossible",
         "task_name": "mnli"
       }
     },
     "mnli+justified in saying": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.40307160292921074,
         "acc_norm": 0.31783970707892595,
-        "acc_norm_stderr": 0.004696220133268759,
-        "acc_stderr": 0.004947130571266146,
+        "acc_norm_stderr": 0.004696220133268762,
+        "acc_stderr": 0.004947130571266143,
         "prompt_name": "justified in saying",
         "task_name": "mnli"
       }
     },
     "mnli+must be true": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.40154597233523187,
         "acc_norm": 0.31783970707892595,
-        "acc_norm_stderr": 0.004696220133268761,
+        "acc_norm_stderr": 0.004696220133268762,
         "acc_stderr": 0.0049440651625212335,
         "prompt_name": "must be true",
         "task_name": "mnli"
       }
     },
     "mnli+should assume": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.3822213181448332,
         "acc_norm": 0.31865337672904803,
-        "acc_norm_stderr": 0.004699422246028707,
-        "acc_stderr": 0.004900891227995983,
+        "acc_norm_stderr": 0.004699422246028711,
+        "acc_stderr": 0.004900891227995982,
         "prompt_name": "should assume",
         "task_name": "mnli"
       }
     },
     "mnli+take the following as truth": {
-      "2022-07-06-18-42-54": {
+      "2022-07-07-15-13-09": {
         "acc": 0.3330960130187144,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.0046978232543677615,
-        "acc_stderr": 0.004753544086075966,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.004753544086075965,
         "prompt_name": "take the following as truth",
         "task_name": "mnli"
       }
     },
     "mnli_mismatched+GPT-3 style": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.3512990320937341,
         "acc_norm": 0.3186958736627611,
-        "acc_norm_stderr": 0.004703657632807154,
-        "acc_stderr": 0.004818786919078289,
+        "acc_norm_stderr": 0.004703657632807156,
+        "acc_stderr": 0.004818786919078285,
         "prompt_name": "GPT-3 style",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+MNLI crowdsource": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.3601505288852726,
         "acc_norm": 0.3140764849471115,
-        "acc_norm_stderr": 0.004681194743705914,
-        "acc_stderr": 0.00484152398884149,
+        "acc_norm_stderr": 0.004681194743705916,
+        "acc_stderr": 0.004841523988841491,
         "prompt_name": "MNLI crowdsource",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+always/sometimes/never": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.30970301057770544,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.004697823254367761,
-        "acc_stderr": 0.004663283890451531,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.00466328389045152,
         "prompt_name": "always/sometimes/never",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+based on the previous passage": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.40673311635475995,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.0046978232543677684,
-        "acc_stderr": 0.004954284842312134,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.004954284842312138,
         "prompt_name": "based on the previous passage",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+can we infer": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.4044955248169243,
         "acc_norm": 0.3184499593165175,
-        "acc_norm_stderr": 0.00469862326611441,
-        "acc_stderr": 0.004949946753591561,
+        "acc_norm_stderr": 0.0046986232661144,
+        "acc_stderr": 0.004949946753591566,
         "prompt_name": "can we infer",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+claim true/false/inconclusive": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.3572009764035802,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.004697823254367757,
-        "acc_stderr": 0.00483275829388123,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.00483275829388122,
         "prompt_name": "claim true/false/inconclusive",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+consider always/sometimes/never": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.3403173311635476,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.004697823254367763,
+        "acc_norm_stderr": 0.004697823254367764,
         "acc_stderr": 0.004778710514457159,
         "prompt_name": "consider always/sometimes/never",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+does it follow that": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.41914157851912126,
         "acc_norm": 0.32068755085435313,
-        "acc_norm_stderr": 0.004707355409658675,
-        "acc_stderr": 0.0049764159045820105,
+        "acc_norm_stderr": 0.004707355409658671,
+        "acc_stderr": 0.004976415904582009,
         "prompt_name": "does it follow that",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+does this imply": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.32628152969894225,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.00469782325436776,
-        "acc_stderr": 0.004728644051715702,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.004728644051715699,
         "prompt_name": "does this imply",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+guaranteed true": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.37144019528071603,
         "acc_norm": 0.31783970707892595,
-        "acc_norm_stderr": 0.004696220133268756,
-        "acc_stderr": 0.004873252385417244,
+        "acc_norm_stderr": 0.004696220133268762,
+        "acc_stderr": 0.004873252385417233,
         "prompt_name": "guaranteed true",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+guaranteed/possible/impossible": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.33848657445077296,
         "acc_norm": 0.36879576891781934,
-        "acc_norm_stderr": 0.004866078016488211,
-        "acc_stderr": 0.00477244802307834,
+        "acc_norm_stderr": 0.0048660780164882156,
+        "acc_stderr": 0.004772448023078349,
         "prompt_name": "guaranteed/possible/impossible",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+justified in saying": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.40307160292921074,
         "acc_norm": 0.31783970707892595,
-        "acc_norm_stderr": 0.004696220133268757,
+        "acc_norm_stderr": 0.004696220133268762,
         "acc_stderr": 0.004947130571266143,
         "prompt_name": "justified in saying",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+must be true": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.40154597233523187,
         "acc_norm": 0.31783970707892595,
-        "acc_norm_stderr": 0.004696220133268764,
-        "acc_stderr": 0.004944065162521235,
+        "acc_norm_stderr": 0.004696220133268762,
+        "acc_stderr": 0.0049440651625212335,
         "prompt_name": "must be true",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+should assume": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.3822213181448332,
         "acc_norm": 0.31865337672904803,
-        "acc_norm_stderr": 0.004699422246028713,
-        "acc_stderr": 0.0049008912279959824,
+        "acc_norm_stderr": 0.004699422246028711,
+        "acc_stderr": 0.004900891227995982,
         "prompt_name": "should assume",
         "task_name": "mnli_mismatched"
       }
     },
     "mnli_mismatched+take the following as truth": {
-      "2022-07-06-18-42-41": {
+      "2022-07-07-15-13-13": {
         "acc": 0.3330960130187144,
         "acc_norm": 0.318246541903987,
-        "acc_norm_stderr": 0.004697823254367761,
-        "acc_stderr": 0.004753544086075969,
+        "acc_norm_stderr": 0.004697823254367764,
+        "acc_stderr": 0.004753544086075965,
         "prompt_name": "take the following as truth",
         "task_name": "mnli_mismatched"
       }
     },
     "mrpc": {
-      "2022-07-05-17-13-21": {
+      "2022-07-07-20-50-01": {
         "acc": 0.44607843137254904,
         "acc_stderr": 0.02463953717560257,
         "f1": 0.43781094527363185,
@@ -1956,113 +2076,113 @@
       }
     },
     "multirc": {
-      "2022-07-05-17-15-29": {
+      "2022-07-07-20-49-58": {
         "acc": 0.015739769150052464,
         "acc_stderr": 0.00403399795659578
       }
     },
     "multirc+I was going to say\u2026": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.6006600660066007,
         "acc_norm": 0.4298679867986799,
-        "acc_norm_stderr": 0.007110804779343127,
-        "acc_stderr": 0.007034759275708414,
+        "acc_norm_stderr": 0.007110804779343116,
+        "acc_stderr": 0.007034759275708412,
         "prompt_name": "I was going to say\u2026",
         "task_name": "multirc"
       }
     },
     "multirc+Would it be good to answer\u2026": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.599009900990099,
         "acc_norm": 0.42924917491749176,
-        "acc_norm_stderr": 0.00710953994516704,
-        "acc_stderr": 0.007039589183091896,
+        "acc_norm_stderr": 0.007109539945167023,
+        "acc_stderr": 0.007039589183091903,
         "prompt_name": "Would it be good to answer\u2026",
         "task_name": "multirc"
       }
     },
     "multirc+confirm": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.45482673267326734,
         "acc_norm": 0.4280115511551155,
-        "acc_norm_stderr": 0.007106976252751537,
-        "acc_stderr": 0.007152432327733896,
+        "acc_norm_stderr": 0.007106976252751536,
+        "acc_stderr": 0.007152432327733898,
         "prompt_name": "confirm",
         "task_name": "multirc"
       }
     },
     "multirc+correct": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.5544554455445545,
         "acc_norm": 0.46493399339933994,
-        "acc_norm_stderr": 0.007164119488276889,
-        "acc_stderr": 0.007139082269957152,
+        "acc_norm_stderr": 0.007164119488276892,
+        "acc_stderr": 0.007139082269957138,
         "prompt_name": "correct",
         "task_name": "multirc"
       }
     },
     "multirc+decide_valid": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.5651815181518152,
         "acc_norm": 0.4280115511551155,
-        "acc_norm_stderr": 0.007106976252751535,
-        "acc_stderr": 0.00712051595103902,
+        "acc_norm_stderr": 0.007106976252751536,
+        "acc_stderr": 0.007120515951039016,
         "prompt_name": "decide_valid",
         "task_name": "multirc"
       }
     },
     "multirc+found_this_answer": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.4801980198019802,
         "acc_norm": 0.4280115511551155,
-        "acc_norm_stderr": 0.00710697625275153,
-        "acc_stderr": 0.007176168661176382,
+        "acc_norm_stderr": 0.007106976252751536,
+        "acc_stderr": 0.007176168661176385,
         "prompt_name": "found_this_answer",
         "task_name": "multirc"
       }
     },
     "multirc+grading": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.6113861386138614,
         "acc_norm": 0.4280115511551155,
-        "acc_norm_stderr": 0.0071069762527515325,
-        "acc_stderr": 0.007001328061184028,
+        "acc_norm_stderr": 0.007106976252751536,
+        "acc_stderr": 0.007001328061184024,
         "prompt_name": "grading",
         "task_name": "multirc"
       }
     },
     "multirc+is the correct answer\u2026": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.6155115511551155,
         "acc_norm": 0.43543729372937295,
-        "acc_norm_stderr": 0.0071216789966105755,
-        "acc_stderr": 0.006987522870919022,
+        "acc_norm_stderr": 0.007121678996610582,
+        "acc_stderr": 0.006987522870919024,
         "prompt_name": "is the correct answer\u2026",
         "task_name": "multirc"
       }
     },
     "multirc+is\u2026 a correct answer?": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.6262376237623762,
         "acc_norm": 0.4282178217821782,
-        "acc_norm_stderr": 0.007107406686707524,
-        "acc_stderr": 0.006949136768348997,
+        "acc_norm_stderr": 0.007107406686707527,
+        "acc_stderr": 0.006949136768348981,
         "prompt_name": "is\u2026 a correct answer?",
         "task_name": "multirc"
       }
     },
     "multirc+paragraph\u2026 question\u2026 is it\u2026 ?": {
-      "2022-07-06-18-42-58": {
+      "2022-07-07-15-13-18": {
         "acc": 0.6113861386138614,
         "acc_norm": 0.5177392739273927,
-        "acc_norm_stderr": 0.0071772817167114625,
-        "acc_stderr": 0.007001328061184029,
+        "acc_norm_stderr": 0.007177281716711472,
+        "acc_stderr": 0.007001328061184026,
         "prompt_name": "paragraph\u2026 question\u2026 is it\u2026 ?",
         "task_name": "multirc"
       }
     },
     "openbookqa": {
-      "2022-07-05-17-16-59": {
+      "2022-07-07-20-49-50": {
         "acc": 0.322,
         "acc_norm": 0.438,
         "acc_norm_stderr": 0.022210326363977417,
@@ -2070,7 +2190,7 @@
       }
     },
     "piqa": {
-      "2022-07-05-17-19-29": {
+      "2022-07-07-20-49-47": {
         "acc": 0.7910772578890098,
         "acc_norm": 0.8122959738846572,
         "acc_norm_stderr": 0.009110440292132569,
@@ -2078,7 +2198,7 @@
       }
     },
     "prost": {
-      "2022-07-05-17-23-18": {
+      "2022-07-07-20-49-58": {
         "acc": 0.29904995730145173,
         "acc_norm": 0.3129269854824936,
         "acc_norm_stderr": 0.003387631053516925,
@@ -2086,19 +2206,19 @@
       }
     },
     "pubmedqa": {
-      "2022-07-05-17-28-00": {
+      "2022-07-07-20-49-58": {
         "acc": 0.709,
         "acc_stderr": 0.01437099598237795
       }
     },
     "qnli": {
-      "2022-07-05-17-31-50": {
+      "2022-07-07-20-49-42": {
         "acc": 0.553725059491122,
         "acc_stderr": 0.006726242049585073
       }
     },
     "qqp": {
-      "2022-07-05-17-36-57": {
+      "2022-07-07-20-50-06": {
         "acc": 0.3949047736829087,
         "acc_stderr": 0.002431148881649223,
         "f1": 0.5051779935275081,
@@ -2106,99 +2226,99 @@
       }
     },
     "qqp+answer": {
-      "2022-07-06-18-42-59": {
+      "2022-07-07-15-13-12": {
         "acc": 0.46764778629730397,
         "acc_norm": 0.36816720257234725,
-        "acc_norm_stderr": 0.0023987066106144965,
+        "acc_norm_stderr": 0.002398706610614492,
         "acc_stderr": 0.0024814896831799596,
         "prompt_name": "answer",
         "task_name": "qqp"
       }
     },
     "qqp+duplicate": {
-      "2022-07-06-18-42-59": {
+      "2022-07-07-15-13-12": {
         "acc": 0.5852090032154341,
         "acc_norm": 0.36816720257234725,
-        "acc_norm_stderr": 0.0023987066106144995,
-        "acc_stderr": 0.0024503248274772454,
+        "acc_norm_stderr": 0.002398706610614492,
+        "acc_stderr": 0.0024503248274772562,
         "prompt_name": "duplicate",
         "task_name": "qqp"
       }
     },
     "qqp+duplicate or not": {
-      "2022-07-06-18-42-59": {
+      "2022-07-07-15-13-12": {
         "acc": 0.37331189710610935,
         "acc_norm": 0.6249319812020777,
-        "acc_norm_stderr": 0.0024078248527927026,
-        "acc_stderr": 0.0024055541680049904,
+        "acc_norm_stderr": 0.0024078248527926935,
+        "acc_stderr": 0.00240555416800499,
         "prompt_name": "duplicate or not",
         "task_name": "qqp"
       }
     },
     "qqp+meaning": {
-      "2022-07-06-18-42-59": {
+      "2022-07-07-15-13-12": {
         "acc": 0.3897106109324759,
         "acc_norm": 0.36816720257234725,
-        "acc_norm_stderr": 0.002398706610614501,
-        "acc_stderr": 0.0024254511118607944,
+        "acc_norm_stderr": 0.002398706610614492,
+        "acc_stderr": 0.002425451111860786,
         "prompt_name": "meaning",
         "task_name": "qqp"
       }
     },
     "qqp+quora": {
-      "2022-07-06-18-42-59": {
+      "2022-07-07-15-13-12": {
         "acc": 0.3760326490230027,
         "acc_norm": 0.36816720257234725,
-        "acc_norm_stderr": 0.0023987066106144926,
-        "acc_stderr": 0.002409057746217728,
+        "acc_norm_stderr": 0.002398706610614492,
+        "acc_stderr": 0.0024090577462177283,
         "prompt_name": "quora",
         "task_name": "qqp"
       }
     },
     "qqp+same thing": {
-      "2022-07-06-18-42-59": {
+      "2022-07-07-15-13-12": {
         "acc": 0.4805837249567153,
         "acc_norm": 0.36816720257234725,
-        "acc_norm_stderr": 0.0023987066106144882,
-        "acc_stderr": 0.0024848249931467927,
+        "acc_norm_stderr": 0.002398706610614492,
+        "acc_stderr": 0.002484824993146796,
         "prompt_name": "same thing",
         "task_name": "qqp"
       }
     },
     "race": {
-      "2022-07-05-17-41-38": {
+      "2022-07-07-20-49-41": {
         "acc": 0.4019138755980861,
         "acc_stderr": 0.015173931321917508
       }
     },
     "rte": {
-      "2022-07-05-17-49-01": {
+      "2022-07-07-20-49-43": {
         "acc": 0.5667870036101083,
         "acc_stderr": 0.029826764082138274
       }
     },
     "rte+does the claim\u2026 follow the fact\u2026": {
-      "2022-07-06-18-43-01": {
+      "2022-07-07-15-12-33": {
         "acc": 0.48375451263537905,
         "acc_norm": 0.5270758122743683,
         "acc_norm_stderr": 0.0300523034631437,
-        "acc_stderr": 0.030080573208738064,
+        "acc_stderr": 0.03008057320873807,
         "prompt_name": "does the claim\u2026 follow the fact\u2026",
         "task_name": "rte"
       }
     },
     "rte+entailment explained": {
-      "2022-07-06-18-43-01": {
+      "2022-07-07-15-12-33": {
         "acc": 0.4729241877256318,
         "acc_norm": 0.4729241877256318,
-        "acc_norm_stderr": 0.030052303463143706,
-        "acc_stderr": 0.030052303463143706,
+        "acc_norm_stderr": 0.0300523034631437,
+        "acc_stderr": 0.0300523034631437,
         "prompt_name": "entailment explained",
         "task_name": "rte"
       }
     },
     "rte+imply": {
-      "2022-07-06-18-43-01": {
+      "2022-07-07-15-12-33": {
         "acc": 0.5054151624548736,
         "acc_norm": 0.5270758122743683,
         "acc_norm_stderr": 0.0300523034631437,
@@ -2208,27 +2328,27 @@
       }
     },
     "rte+imply separated": {
-      "2022-07-06-18-43-01": {
+      "2022-07-07-15-12-33": {
         "acc": 0.44765342960288806,
         "acc_norm": 0.5270758122743683,
-        "acc_norm_stderr": 0.030052303463143706,
+        "acc_norm_stderr": 0.0300523034631437,
         "acc_stderr": 0.02993107036293953,
         "prompt_name": "imply separated",
         "task_name": "rte"
       }
     },
     "rte+mean": {
-      "2022-07-06-18-43-01": {
+      "2022-07-07-15-12-33": {
         "acc": 0.5234657039711191,
         "acc_norm": 0.5270758122743683,
-        "acc_norm_stderr": 0.030052303463143713,
+        "acc_norm_stderr": 0.0300523034631437,
         "acc_stderr": 0.030063300411902652,
         "prompt_name": "mean",
         "task_name": "rte"
       }
     },
     "sciq": {
-      "2022-07-05-17-50-34": {
+      "2022-07-07-20-49-58": {
         "acc": 0.948,
         "acc_norm": 0.926,
         "acc_norm_stderr": 0.008282064512704159,
@@ -2236,13 +2356,13 @@
       }
     },
     "sst": {
-      "2022-07-05-17-50-59": {
+      "2022-07-07-20-49-54": {
         "acc": 0.6605504587155964,
         "acc_stderr": 0.016044697548103556
       }
     },
     "sst+following positive negative": {
-      "2022-07-06-18-42-48": {
+      "2022-07-07-15-13-06": {
         "acc": 0.6811926605504587,
         "acc_norm": 0.6811926605504587,
         "acc_norm_stderr": 0.015790288247596613,
@@ -2252,37 +2372,37 @@
       }
     },
     "sst+happy or mad": {
-      "2022-07-06-18-42-48": {
+      "2022-07-07-15-13-06": {
         "acc": 0.6341743119266054,
         "acc_norm": 0.5091743119266054,
-        "acc_norm_stderr": 0.016939001525351542,
-        "acc_stderr": 0.016320458096826463,
+        "acc_norm_stderr": 0.01693900152535154,
+        "acc_stderr": 0.016320458096826466,
         "prompt_name": "happy or mad",
         "task_name": "sst"
       }
     },
     "sst+positive negative after": {
-      "2022-07-06-18-42-48": {
+      "2022-07-07-15-13-06": {
         "acc": 0.7809633027522935,
         "acc_norm": 0.7809633027522935,
-        "acc_norm_stderr": 0.014014082736050315,
-        "acc_stderr": 0.014014082736050315,
+        "acc_norm_stderr": 0.014014082736050301,
+        "acc_stderr": 0.014014082736050301,
         "prompt_name": "positive negative after",
         "task_name": "sst"
       }
     },
     "sst+review": {
-      "2022-07-06-18-42-48": {
+      "2022-07-07-15-13-06": {
         "acc": 0.5091743119266054,
         "acc_norm": 0.5091743119266054,
-        "acc_norm_stderr": 0.016939001525351542,
-        "acc_stderr": 0.016939001525351542,
+        "acc_norm_stderr": 0.01693900152535154,
+        "acc_stderr": 0.01693900152535154,
         "prompt_name": "review",
         "task_name": "sst"
       }
     },
     "sst+said": {
-      "2022-07-06-18-42-48": {
+      "2022-07-07-15-13-06": {
         "acc": 0.48623853211009177,
         "acc_norm": 0.5091743119266054,
         "acc_norm_stderr": 0.01693900152535154,
@@ -2292,13 +2412,13 @@
       }
     },
     "triviaqa": {
-      "2022-07-05-17-54-36": {
+      "2022-07-07-20-50-01": {
         "acc": 0.34164235834880224,
         "acc_stderr": 0.004459098827389749
       }
     },
     "tydiqa_primary+en_after_reading_the_text": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.36363636363636365,
         "acc_norm": 0.6623376623376623,
         "acc_norm_stderr": 0.05424681453014242,
@@ -2308,7 +2428,7 @@
       }
     },
     "tydiqa_primary+en_based_on_the_text": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.3246753246753247,
         "acc_norm": 0.6753246753246753,
         "acc_norm_stderr": 0.05371235012133188,
@@ -2318,17 +2438,17 @@
       }
     },
     "tydiqa_primary+en_heres_what_I_found": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.04267701260911736,
         "acc_norm": 0.8942774005819593,
-        "acc_norm_stderr": 0.009580792444996935,
+        "acc_norm_stderr": 0.00958079244499694,
         "acc_stderr": 0.006298072228084813,
         "prompt_name": "en_heres_what_I_found",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+en_open_domain_qa": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.6753246753246753,
         "acc_norm": 0.6753246753246753,
         "acc_norm_stderr": 0.05371235012133188,
@@ -2338,7 +2458,7 @@
       }
     },
     "tydiqa_primary+en_open_domain_qa_without_choices": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.6883116883116883,
         "acc_norm": 0.6753246753246753,
         "acc_norm_stderr": 0.05371235012133188,
@@ -2348,107 +2468,107 @@
       }
     },
     "tydiqa_primary+en_read_and_answer": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.05140640155189137,
         "acc_norm": 0.915615906886518,
-        "acc_norm_stderr": 0.008661006126832248,
-        "acc_stderr": 0.006880659783740822,
+        "acc_norm_stderr": 0.00866100612683225,
+        "acc_stderr": 0.006880659783740824,
         "prompt_name": "en_read_and_answer",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+en_yes_no_none": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.04849660523763336,
         "acc_norm": 0.9000969932104753,
-        "acc_norm_stderr": 0.009343623339508987,
-        "acc_stderr": 0.006693329857450626,
+        "acc_norm_stderr": 0.009343623339508942,
+        "acc_stderr": 0.0066933298574506275,
         "prompt_name": "en_yes_no_none",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+en_yes_no_question": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.07662463627546072,
         "acc_norm": 0.07468477206595538,
-        "acc_norm_stderr": 0.008191100835687363,
-        "acc_stderr": 0.0082880954158625,
+        "acc_norm_stderr": 0.008191100835687345,
+        "acc_stderr": 0.008288095415862498,
         "prompt_name": "en_yes_no_question",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_after_reading_the_text": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.23728813559322035,
         "acc_norm": 0.2033898305084746,
-        "acc_norm_stderr": 0.05285347464423806,
+        "acc_norm_stderr": 0.052853474644238056,
         "acc_stderr": 0.05586042894941199,
         "prompt_name": "id_after_reading_the_text",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_based_on_the_text": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.22033898305084745,
         "acc_norm": 0.2033898305084746,
         "acc_norm_stderr": 0.052853474644238056,
-        "acc_stderr": 0.054423263851573936,
+        "acc_stderr": 0.05442326385157392,
         "prompt_name": "id_based_on_the_text",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_heres_what_I_found": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.009418282548476454,
         "acc_norm": 0.9656509695290859,
-        "acc_norm_stderr": 0.004287943610674887,
-        "acc_stderr": 0.0022741166875513722,
+        "acc_norm_stderr": 0.004287943610674886,
+        "acc_stderr": 0.0022741166875513683,
         "prompt_name": "id_heres_what_I_found",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_open_domain_qa": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.3559322033898305,
         "acc_norm": 0.2033898305084746,
-        "acc_norm_stderr": 0.05285347464423808,
+        "acc_norm_stderr": 0.052853474644238056,
         "acc_stderr": 0.06286883855871885,
         "prompt_name": "id_open_domain_qa",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_open_domain_qa_without_choices": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.4576271186440678,
         "acc_norm": 0.2033898305084746,
-        "acc_norm_stderr": 0.05285347464423807,
+        "acc_norm_stderr": 0.052853474644238056,
         "acc_stderr": 0.06541703602400105,
         "prompt_name": "id_open_domain_qa_without_choices",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_read_and_answer": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.00775623268698061,
         "acc_norm": 0.9656509695290859,
         "acc_norm_stderr": 0.004287943610674886,
-        "acc_stderr": 0.0020654578557349097,
+        "acc_stderr": 0.0020654578557349093,
         "prompt_name": "id_read_and_answer",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_yes_no_none": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.00775623268698061,
         "acc_norm": 0.9656509695290859,
-        "acc_norm_stderr": 0.0042879436106749,
-        "acc_stderr": 0.002065457855734909,
+        "acc_norm_stderr": 0.004287943610674886,
+        "acc_stderr": 0.0020654578557349093,
         "prompt_name": "id_yes_no_none",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+id_yes_no_question": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.032686980609418284,
         "acc_norm": 0.9673130193905817,
         "acc_norm_stderr": 0.0041865150102794995,
@@ -2458,37 +2578,37 @@
       }
     },
     "tydiqa_primary+jp_after_reading_the_text": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.6486486486486487,
         "acc_norm": 0.20945945945945946,
-        "acc_norm_stderr": 0.033562429827632696,
+        "acc_norm_stderr": 0.03356242982763269,
         "acc_stderr": 0.039374668058631504,
         "prompt_name": "jp_after_reading_the_text",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+jp_based_on_the_text": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.6621621621621622,
         "acc_norm": 0.20945945945945946,
         "acc_norm_stderr": 0.03356242982763269,
-        "acc_stderr": 0.039010153323623384,
+        "acc_stderr": 0.03901015332362337,
         "prompt_name": "jp_based_on_the_text",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+jp_heres_what_I_found": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.053832650672908135,
         "acc_norm": 0.9128145114101814,
-        "acc_norm_stderr": 0.0068260495658294534,
-        "acc_stderr": 0.00546088370288314,
+        "acc_norm_stderr": 0.006826049565829443,
+        "acc_stderr": 0.00546088370288312,
         "prompt_name": "jp_heres_what_I_found",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+jp_open_domain_qa": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.0,
         "acc_norm": 1.0,
         "acc_norm_stderr": 0.0,
@@ -2498,7 +2618,7 @@
       }
     },
     "tydiqa_primary+jp_open_domain_qa_without_choices": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.7162162162162162,
         "acc_norm": 0.2635135135135135,
         "acc_norm_stderr": 0.036335000433819875,
@@ -2508,49 +2628,49 @@
       }
     },
     "tydiqa_primary+jp_read_and_answer": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.05558806319485079,
         "acc_norm": 0.9128145114101814,
-        "acc_norm_stderr": 0.006826049565829467,
-        "acc_stderr": 0.005544055534636418,
+        "acc_norm_stderr": 0.006826049565829443,
+        "acc_stderr": 0.005544055534636388,
         "prompt_name": "jp_read_and_answer",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+jp_yes_no_none": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.056173200702165006,
         "acc_norm": 0.9128145114101814,
-        "acc_norm_stderr": 0.006826049565829446,
-        "acc_stderr": 0.005571431615738738,
+        "acc_norm_stderr": 0.006826049565829443,
+        "acc_stderr": 0.005571431615738736,
         "prompt_name": "jp_yes_no_none",
         "task_name": "tydiqa_primary"
       }
     },
     "tydiqa_primary+jp_yes_no_question": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-12-53": {
         "acc": 0.08660035108250438,
         "acc_norm": 0.6851960210649503,
         "acc_norm_stderr": 0.011237859277319441,
-        "acc_stderr": 0.006805284929468146,
+        "acc_stderr": 0.006805284929468163,
         "prompt_name": "jp_yes_no_question",
         "task_name": "tydiqa_primary"
       }
     },
     "webqs": {
-      "2022-07-05-17-57-30": {
+      "2022-07-07-20-49-44": {
         "acc": 0.15895669291338582,
         "acc_stderr": 0.008113226998829099
       }
     },
     "wic": {
-      "2022-07-05-18-00-42": {
+      "2022-07-07-20-49-54": {
         "acc": 0.5062695924764891,
         "acc_stderr": 0.01980916380119652
       }
     },
     "wic+GPT-3-prompt": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.4702194357366771,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.01981072129375818,
@@ -2560,7 +2680,7 @@
       }
     },
     "wic+GPT-3-prompt-with-label": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.45141065830721006,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.01981072129375818,
@@ -2570,7 +2690,7 @@
       }
     },
     "wic+affirmation_true_or_false": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.49059561128526646,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.01981072129375818,
@@ -2580,27 +2700,27 @@
       }
     },
     "wic+grammar_homework": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.4780564263322884,
         "acc_norm": 0.49686520376175547,
-        "acc_norm_stderr": 0.019810331932097535,
-        "acc_stderr": 0.019791633564310455,
+        "acc_norm_stderr": 0.01981033193209754,
+        "acc_stderr": 0.019791633564310452,
         "prompt_name": "grammar_homework",
         "task_name": "wic"
       }
     },
     "wic+polysemous": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.5313479623824452,
         "acc_norm": 0.49843260188087773,
         "acc_norm_stderr": 0.019810623954060382,
-        "acc_stderr": 0.01977174717294229,
+        "acc_stderr": 0.019771747172942295,
         "prompt_name": "polysemous",
         "task_name": "wic"
       }
     },
     "wic+question-context": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.49843260188087773,
         "acc_norm": 0.49216300940438873,
         "acc_norm_stderr": 0.019808287657813832,
@@ -2610,69 +2730,69 @@
       }
     },
     "wic+question-context-meaning": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.5047021943573667,
         "acc_norm": 0.493730407523511,
-        "acc_norm_stderr": 0.019809163801196506,
-        "acc_stderr": 0.019809845219259763,
+        "acc_norm_stderr": 0.019809163801196517,
+        "acc_stderr": 0.01980984521925977,
         "prompt_name": "question-context-meaning",
         "task_name": "wic"
       }
     },
     "wic+question-context-meaning-with-label": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.5203761755485894,
         "acc_norm": 0.49843260188087773,
-        "acc_norm_stderr": 0.019810623954060386,
-        "acc_stderr": 0.01979426408957258,
+        "acc_norm_stderr": 0.019810623954060382,
+        "acc_stderr": 0.019794264089572577,
         "prompt_name": "question-context-meaning-with-label",
         "task_name": "wic"
       }
     },
     "wic+same_sense": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.49686520376175547,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.01981072129375818,
-        "acc_stderr": 0.019810331932097552,
+        "acc_stderr": 0.01981033193209754,
         "prompt_name": "same_sense",
         "task_name": "wic"
       }
     },
     "wic+similar-sense": {
-      "2022-07-06-18-42-52": {
+      "2022-07-07-15-13-28": {
         "acc": 0.5391849529780565,
         "acc_norm": 0.5,
         "acc_norm_stderr": 0.01981072129375818,
-        "acc_stderr": 0.019749790431100343,
+        "acc_stderr": 0.019749790431100353,
         "prompt_name": "similar-sense",
         "task_name": "wic"
       }
     },
     "winogrande": {
-      "2022-07-05-18-02-41": {
+      "2022-07-07-20-49-43": {
         "acc": 0.7363851617995264,
         "acc_stderr": 0.012382849299658459
       }
     },
     "wnli": {
-      "2022-07-05-18-06-29": {
+      "2022-07-07-20-53-10": {
         "acc": 0.5352112676056338,
         "acc_stderr": 0.0596130578497224
       }
     },
     "wnli+confident": {
-      "2022-07-06-18-42-24": {
+      "2022-07-07-15-13-13": {
         "acc": 0.4788732394366197,
         "acc_norm": 0.4507042253521127,
         "acc_norm_stderr": 0.05947027187737998,
-        "acc_stderr": 0.05970805879899504,
+        "acc_stderr": 0.05970805879899505,
         "prompt_name": "confident",
         "task_name": "wnli"
       }
     },
     "wnli+entailment explained": {
-      "2022-07-06-18-42-24": {
+      "2022-07-07-15-13-13": {
         "acc": 0.5633802816901409,
         "acc_norm": 0.43661971830985913,
         "acc_norm_stderr": 0.0592793555841297,
@@ -2682,7 +2802,7 @@
       }
     },
     "wnli+imply": {
-      "2022-07-06-18-42-24": {
+      "2022-07-07-15-13-13": {
         "acc": 0.5774647887323944,
         "acc_norm": 0.43661971830985913,
         "acc_norm_stderr": 0.0592793555841297,
@@ -2692,17 +2812,17 @@
       }
     },
     "wnli+justified": {
-      "2022-07-06-18-42-24": {
+      "2022-07-07-15-13-13": {
         "acc": 0.6197183098591549,
         "acc_norm": 0.43661971830985913,
         "acc_norm_stderr": 0.0592793555841297,
-        "acc_stderr": 0.05802308977399398,
+        "acc_stderr": 0.05802308977399397,
         "prompt_name": "justified",
         "task_name": "wnli"
       }
     },
     "wnli+mean": {
-      "2022-07-06-18-42-24": {
+      "2022-07-07-15-13-13": {
         "acc": 0.5633802816901409,
         "acc_norm": 0.43661971830985913,
         "acc_norm_stderr": 0.0592793555841297,
@@ -2712,57 +2832,33 @@
       }
     },
     "wsc": {
-      "2022-07-05-18-06-16": {
+      "2022-07-07-20-53-12": {
         "acc": 0.36538461538461536,
         "acc_stderr": 0.0474473339327792
       }
     },
     "wsc+GPT-3 Style": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.41346153846153844,
         "acc_norm": 0.36538461538461536,
         "acc_norm_stderr": 0.0474473339327792,
-        "acc_stderr": 0.04852294969729053,
-        "prompt_name": "GPT-3 Style",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.41346153846153844,
-        "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04852294969729053,
+        "acc_stderr": 0.048522949697290534,
         "prompt_name": "GPT-3 Style",
         "task_name": "wsc"
       }
     },
     "wsc+I think they mean": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.41346153846153844,
         "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04852294969729053,
-        "prompt_name": "I think they mean",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.41346153846153844,
-        "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
+        "acc_norm_stderr": 0.0474473339327792,
         "acc_stderr": 0.04852294969729053,
         "prompt_name": "I think they mean",
         "task_name": "wsc"
       }
     },
     "wsc+Who or what is/are": {
-      "2022-07-06-15-39-58": {
-        "acc": 0.40384615384615385,
-        "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.0474473339327792,
-        "acc_stderr": 0.04834688952654019,
-        "prompt_name": "Who or what is/are",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
+      "2022-07-07-15-13-27": {
         "acc": 0.40384615384615385,
         "acc_norm": 0.36538461538461536,
         "acc_norm_stderr": 0.0474473339327792,
@@ -2772,127 +2868,71 @@
       }
     },
     "wsc+by p they mean": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.41346153846153844,
         "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04852294969729053,
-        "prompt_name": "by p they mean",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.41346153846153844,
-        "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04852294969729053,
+        "acc_norm_stderr": 0.0474473339327792,
+        "acc_stderr": 0.048522949697290534,
         "prompt_name": "by p they mean",
         "task_name": "wsc"
       }
     },
     "wsc+does p stand for": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.47115384615384615,
         "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04918440626354964,
-        "prompt_name": "does p stand for",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.47115384615384615,
-        "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
+        "acc_norm_stderr": 0.0474473339327792,
         "acc_stderr": 0.04918440626354964,
         "prompt_name": "does p stand for",
         "task_name": "wsc"
       }
     },
     "wsc+does the pronoun refer to": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.3942307692307692,
         "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04815154775990711,
-        "prompt_name": "does the pronoun refer to",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.3942307692307692,
-        "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04815154775990711,
+        "acc_norm_stderr": 0.0474473339327792,
+        "acc_stderr": 0.048151547759907105,
         "prompt_name": "does the pronoun refer to",
         "task_name": "wsc"
       }
     },
     "wsc+in other words": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.5192307692307693,
         "acc_norm": 0.6442307692307693,
-        "acc_norm_stderr": 0.04717221961050338,
+        "acc_norm_stderr": 0.04717221961050337,
         "acc_stderr": 0.049230010729780505,
-        "prompt_name": "in other words",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.5192307692307693,
-        "acc_norm": 0.6442307692307693,
-        "acc_norm_stderr": 0.04717221961050336,
-        "acc_stderr": 0.0492300107297805,
         "prompt_name": "in other words",
         "task_name": "wsc"
       }
     },
     "wsc+p is/are r": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.6538461538461539,
         "acc_norm": 0.6346153846153846,
-        "acc_norm_stderr": 0.047447333932779195,
+        "acc_norm_stderr": 0.0474473339327792,
         "acc_stderr": 0.04687634642174988,
-        "prompt_name": "p is/are r",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.6538461538461539,
-        "acc_norm": 0.6346153846153846,
-        "acc_norm_stderr": 0.04744733393277919,
-        "acc_stderr": 0.046876346421749884,
         "prompt_name": "p is/are r",
         "task_name": "wsc"
       }
     },
     "wsc+replaced with": {
-      "2022-07-06-15-39-58": {
+      "2022-07-07-15-13-27": {
         "acc": 0.36538461538461536,
         "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.04744733393277919,
-        "acc_stderr": 0.04744733393277919,
-        "prompt_name": "replaced with",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
-        "acc": 0.36538461538461536,
-        "acc_norm": 0.36538461538461536,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.047447333932779195,
+        "acc_norm_stderr": 0.0474473339327792,
+        "acc_stderr": 0.0474473339327792,
         "prompt_name": "replaced with",
         "task_name": "wsc"
       }
     },
     "wsc+the pronoun refers to": {
-      "2022-07-06-15-39-58": {
-        "acc": 0.5384615384615384,
-        "acc_norm": 0.6346153846153846,
-        "acc_norm_stderr": 0.047447333932779195,
-        "acc_stderr": 0.04912048887947826,
-        "prompt_name": "the pronoun refers to",
-        "task_name": "wsc"
-      },
-      "2022-07-06-18-42-28": {
+      "2022-07-07-15-13-27": {
         "acc": 0.5384615384615384,
         "acc_norm": 0.6346153846153846,
         "acc_norm_stderr": 0.0474473339327792,
-        "acc_stderr": 0.04912048887947827,
+        "acc_stderr": 0.04912048887947828,
         "prompt_name": "the pronoun refers to",
         "task_name": "wsc"
       }
@@ -2962,6 +3002,19 @@
     "copa+more likely": 0,
     "copa+plausible_alternatives": 0,
     "crows_pairs_english+1": 0,
+    "crows_pairs_english+2": 0,
+    "crows_pairs_english+3": 0,
+    "crows_pairs_english+4": 0,
+    "crows_pairs_english+A_preference": 0,
+    "crows_pairs_english+A_reality_check": 0,
+    "crows_pairs_english+A_stereotype_true": 0,
+    "crows_pairs_french+1_fr": 0,
+    "crows_pairs_french+2_fr": 0,
+    "crows_pairs_french+3_fr": 0,
+    "crows_pairs_french+4_fr": 0,
+    "crows_pairs_french+A_preference_fr": 0,
+    "crows_pairs_french+A_reality_check_fr": 0,
+    "crows_pairs_french+A_stereotype_true_fr": 0,
     "diabla+Is the error present? (same lang)": 0,
     "diabla+Which is automatic?": 0,
     "gsarti/flores_101_afr+null": 0,
