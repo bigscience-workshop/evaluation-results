@@ -202,7 +202,7 @@ results_formatted["humaneval"] = {
     "name": "humaneval",
     "lang": "python",
     "all_metrics": [bloom_humaneval], # [{name: score}]
-    "main_metrics": [(name, score, opt_humaneval[name]) for name, score in bloom_humaneval.items()],
+    "main_metrics": [(f"{name} ↑", score, opt_humaneval[name]) for name, score in bloom_humaneval.items()],
     "type": "text-generation"
 }
 
